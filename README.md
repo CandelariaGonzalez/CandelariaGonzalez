@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Candelaria Gonzalez</h1>
-<h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-- 🌱 I’m currently learning **to become a fullstack developer.**
+```shell
+ { “name” : “Candelaria Gonzalez”,
+   “role” : “Fullstack Developer”,
+   “data” : 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/candelariagonzalezdev/",
+      "Tiktok"       : "https://www.tiktok.com/@codigocande?lang=es"
+     }
+ }
+```
 
 - 👨‍💻 All of my projects are available at [linkedin.com/in/candelariagonzalezdev](linkedin.com/in/candelariagonzalezdev)
 
 - 📝 I regularly upload my process in [tiktok.com/@codigocande](tiktok.com/@codigocande)
 
-- 💬 Ask me about **HTML, CSS,Bootstrap, Sass, Javascript, React, Redux, Node.js**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Scss, JavaScript, React, Redux, Node.js, Express, RESTful APIs**
 
 - 📫 How to reach me **m.candelariagonzalez.s@gmail.com**
 
