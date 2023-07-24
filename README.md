@@ -29,4 +29,4 @@
 
 <h4 align="left">Oh, and before you go, a joke ;)</h4>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=black&qColor=white&aColor=%23bbdb51)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=black&qColor=orange&aColor=yellow)
