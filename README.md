@@ -15,7 +15,7 @@
 
 - 📝 I regularly upload my process in [tiktok.com/@codigocande](tiktok.com/@codigocande)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Scss, JavaScript, React, Redux, Node.js, Express, RESTful APIs**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Scss, JavaScript, React, Next js, Node.js, Express, RESTful APIs**
 
 - 📫 How to reach me **m.candelariagonzalez.s@gmail.com**
 
